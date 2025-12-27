@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center" style="display: flex; align-items: center; justify-content: center;">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=30&letterSpacing=&duration=4000&pause=1000&color=FFFFFF&background=6125FF00&center=true&vCenter=true&multiline=true&repeat=false&width=300&height=100&lines=%24+whoami;blackc0rrre" alt="Typing SVG" /></a>
+</h1>
 
-<!--
-**blackc0rrre/blackc0rrre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Golang-090018?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-0D0024?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-130032?style=for-the-badge&logo=c%23&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-17003E?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-1C004B?style=for-the-badge&logo=hackthebox&logoColor=white" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github.r2v.ch/codewars?user=blackc0rrre&name=false&top_languages=true&stroke=%231C004B&theme=gradient_midnight_puple" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4900B8FF&height=120&section=footer"/>
+</p>
