@@ -9,18 +9,15 @@
 
 <table>
 <tr>
-<td valign="middle" width="52%">
+<td valign="middle" width="40%">
 
 ### About
-
-Infrastructure Pentester & Red Team Operator.
-Breaking AD, bypassing EDRs, living off the land.
-
-- **Focus** — Active Directory, Initial Access, Lateral Movement, EDR Evasion
-- **Certs** — CRTO, CRTL
-- **Writing mostly in** — Rust, C, C++, C#, Golang, Python
+**Red Team Operator.** 
+Infrastructure engagements · AD exploitation · EDR evasion.
+CRTO · CRTL · Rust / C# / Python.
 
 </td>
+
 <td valign="middle" width="48%">
 
 <img src="./terminal.svg" width="100%" alt="terminal" />
