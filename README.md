@@ -23,7 +23,7 @@ Breaking AD, bypassing EDRs, living off the land.
 </td>
 <td valign="middle" width="48%">
 
-<img src="./assets/terminal.svg" width="100%" alt="terminal" />
+<img src="./terminal.svg" width="100%" alt="terminal" />
 
 </td>
 </tr>
