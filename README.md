@@ -32,5 +32,4 @@ CRTO · CRTL · Rust / C# / Python.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=blackc0rrre&theme=radical&hide_border=true&background=0D1117&ring=DC143C&fire=DC143C&currStreakLabel=DC143C" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api?username=blackc0rrre&show_icons=true&hide_border=true&bg_color=0D1117&title_color=DC143C&icon_color=9D4EDD&text_color=C9D1D9&count_private=true" height="165" />
 </p>
