@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/CRTO-Certified-DC143C?style=flat-square&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/CRTL-Certified-8B0000?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/OSCP+-Certified-DC145C?style=flat-square&labelColor=0D1117" />
 </p>
 
 <table>
