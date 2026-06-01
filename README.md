@@ -15,7 +15,7 @@
 ### About
 **Red Team Operator.** 
 Infrastructure engagements · AD exploitation · EDR evasion.
-CRTO · CRTL · Rust / C# / Python.
+CRTO · CRTL · OSCP+ · Rust / C# / Python.
 
 </td>
 
